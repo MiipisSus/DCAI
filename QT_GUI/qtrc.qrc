@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/deletePushButton.svg</file>
+    <file>images/up_arrow.svg</file>
+    <file>images/down_arrow.svg</file>
+    <file>images/checkBox.svg</file>
+    <file>images/checkBox_checked.svg</file>
+    <file>images/HintPushButton.svg</file>
+    <file>images/chooseColorPushButton.svg</file>
+  </qresource>
+</RCC>
