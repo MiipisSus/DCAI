@@ -11,6 +11,9 @@ DCAI 是一款針對 Character ai 的多項聊天功能，整理並串接到 Dis
 > 請先在 [Discord.dev](https://ptb.discord.com/developers/applications) 創建一個 Discord bot，並記下其 token
 1. 執行 bot.py
 2. 在管理機器人的視窗中，填寫必須資訊並儲存
+
+![圖片](https://github.com/user-attachments/assets/be1f1fee-ea9b-40a4-8fbe-626696c56c32)
+
 ## How to use
 1. 將 Discord Bot 邀入伺服器
 2. @ Discord Bot 並輸入聊天內容，它就會回覆你了！
